@@ -1,4 +1,4 @@
-# DRF_API_surveys
+# Django Rest Framework Survey API
 
 ## How to Install and Run
 * Use console/terminal to install requirements
