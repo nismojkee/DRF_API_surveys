@@ -31,4 +31,5 @@ Technologies:
 #### Controls
 * all links contains (after start using `runserver`) on (example): `http://localhost:8000/api/`
 * use Login system (login/password): `admin` / `admin`
-* to control elements choose one of them (example): `http://localhost:8000/api/question/`
+* to control element choose one of them (example): `http://localhost:8000/api/question/`
+* to find specific survey use (example): `http://localhost:8000/api/response`
